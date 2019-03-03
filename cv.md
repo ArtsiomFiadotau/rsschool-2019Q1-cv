@@ -1,6 +1,6 @@
 # **RESUME**
-======
-Artem Fedotov
+
+## Name: Artem Fedotov
 
 ### CONTACTS 
 * location: Vitebsk, Belarus
@@ -9,9 +9,7 @@ Artem Fedotov
 * skype: Ha-ha-happyface
 
 ### SUMMARY
-
 I want to work as a front-end developer because I want to create and develop projects that will help people and make their lives easier. I want to make something I would be proud of and I don't want my skills of english and programming to remain unused.
-------
 
 ### SKILLS
 
@@ -37,7 +35,8 @@ I want to work as a front-end developer because I want to create and develop pro
 
 1. VGPT, Vitebsk: Information Technology
 2. PGU, Polotsk: Information Technology
-3. EPAM JavaScript Development Training Cources
+3. EPAM JavaScript Development Training Courses
 
 ### ENGLISH LEVEL
-Upper Intermediate. I've got main knowledge at school where I had a very experienced teacher. Later I was learning through watching foreign movies and and playing pc and console games with subtitles. Also I usually chat with american friends while playing.
+
+Upper Intermediate. I've got main knowledge at school where I had a very experienced teacher. Later I was learning through watching foreign movies and and playing pc and console games with subtitles. Also I usually chat with american friends while playing online games.

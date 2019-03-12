@@ -1,0 +1,21 @@
+html {
+  margin: 0px;
+  padding: 0px;
+}
+
+body {
+  margin: 0px auto auto auto;
+  width: 1024px;
+  border: 2px solid black;
+}
+
+img {
+  float: right;
+  width: 25%;
+  height: 25%;
+  margin: 10px 10px 0px 0px;
+}
+
+.info {
+    margin: 10px;
+}
